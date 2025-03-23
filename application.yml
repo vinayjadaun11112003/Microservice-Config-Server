@@ -1,4 +1,6 @@
-spring.application.name=Config-server-main
+spring:
+  application:
+    name: Config-server-default
 eureka:
   instance:
     prefer-ip-address: true
